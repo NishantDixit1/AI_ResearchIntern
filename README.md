@@ -29,7 +29,7 @@ This project implements a Grammar Scoring Engine that evaluates spoken audio sam
 ├── test.csv                         # Testing metadata (filename only)
 ├── Grammar(score).csv               # Output file with predicted scores
 ├── RandomForest_with_text.pkl       # Trained model saved with joblib
-├── your_script.py / .ipynb          # Main training and prediction pipeline
+├── shl_assesment.ipynb          # Main training and prediction pipeline
 ```
 
 ---
